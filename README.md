@@ -6,5 +6,8 @@ Erstellt mit:
 - JavaScript
 - Node.js
 
-## Live-Demo
-[Hier ansehen](https://a1goretic.github.io/Fitness-Website/)
+Features
+- Trainingspläne
+- Kontaktformular
+
+![Screenshot](screenshot1.png)
