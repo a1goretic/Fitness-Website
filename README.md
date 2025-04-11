@@ -10,4 +10,4 @@ Features
 - Trainingspläne
 - Kontaktformular
 
-![Screenshot](screenshot1.png)
+![Screenshot](/public/images/screenshot1.png)
