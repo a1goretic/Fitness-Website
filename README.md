@@ -10,4 +10,7 @@ Features
 - Trainingspläne
 - Kontaktformular
 
+## Live-Demo
+- Nur Frontend: [GitHub Pages](https://a1goretic.github.io/Fitness-Website/)
+
 ![Screenshot](/public/images/screenshot1.png)
