@@ -18,28 +18,38 @@ header {
 
 header nav ul {
     list-style: none;
+    font-size: 20px;
     margin: 0;
     padding: 0;
     justify-content: center;
-    background-color: #333;
+    background-color: transparent;
     display: flex;
 }
 
 header nav ul li {
-    margin: 0 15px;
+    margin: 0;
+    align-content: center;
+    border-right: 1px solid #fff;
+    padding: 0 10px;
+}
+
+header nav ul li:last-child {
+    border-right: none;
 }
 
 header nav ul li a {
     color: white;
     text-decoration: none;
-    padding: 10px 15px;
+    padding: 10px 30px;
     display: block;
     border-radius: 5px;
+    line-height: 30px;
     transition: background-color 0.3s;
 }
 
 header nav ul li a:hover {
     background-color: #555;
+    line-height: 30px;
 }
 
 .hero {
@@ -50,6 +60,10 @@ header nav ul li a:hover {
     color: white;
     position: relative;
     height: 100vh;
+}
+
+.hero-content {
+    font-size: 20px;
 }
 
 header, .hero * {
