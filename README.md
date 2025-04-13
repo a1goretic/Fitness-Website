@@ -1,6 +1,5 @@
 # Fitness-Website 🏋️
-
-Mein Portfolio-Projekt für Fitness-Enthusiasten!  
+ 
 Erstellt mit:
 - HTML/CSS
 - JavaScript
