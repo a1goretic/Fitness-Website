@@ -4,12 +4,14 @@ const app = express();
 const PORT = 3000;
 
 //Statische Dateien
-app.use(express.static('public'));
+app.use(express.static(path.join(__dirname, '../public')));
+
+//Middleware 
 app.use(express.urlencoded({ extended: true }));
 
 //Routen
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'views', 'index.html'));
+    res.sendFile(path.join(__dirname, '../views/index.html'));
 });
 
 //Kontaktformular-POST
