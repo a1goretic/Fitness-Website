@@ -13,4 +13,4 @@ Features
 ## Live-Demo
 - Nur Frontend: [Website link](https://a1goretic.github.io/Fitness-Website/)
 
-![Screenshot](/public/images/screenshot1.png)
+![Screenshot](/public/images/screenshot1.jpg)
